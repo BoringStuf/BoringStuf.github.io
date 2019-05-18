@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Stylish&display=swap');
+
+h1{
+  color:cyan;
+  font-size:3em;
+  font-family: Stylish;
+}
+
+img{
+  border-radius:50px;
+  
+}
